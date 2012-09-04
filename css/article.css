@@ -1,0 +1,62 @@
+h1.articleTitle {
+	text-align: center;
+	width:800px;
+	font-size:26px;
+	color: black;
+	margin-bottom: 5px;
+	padding: 15px 5px 0;
+	border-top: 1px solid #f9f9f9;
+	vertical-align: bottom;
+	font-family: "方正魏碑简体";
+}
+
+.articleTime {
+	text-align: center;
+	color: #606060;
+	margin-bottom: 20px;
+}
+
+.articleTime a{
+	color: #606060;
+}
+
+.articleTime span{
+	margin: 0 10px;
+}
+#articleDigest {
+	padding: 10px 20px;
+	background: white;
+	border: 2px solid #CFD6E5;
+	line-height:1.8;
+	margin: 0 20px 2em;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color: #122F43;
+}
+
+#articleContent{
+	line-height:1.8;
+	padding: 0 20px;
+	margin-bottom: 2em;
+	color: #122F43;
+}
+
+.articleFontSize_small{
+	font-size: 12px;
+}
+
+.articleFontSize_medium{
+	font-size: 14px;
+}
+
+.articleFontSize_large{
+	font-size: 16px;
+}
+
+#articleContent p{
+	margin-bottom: 1em;
+	text-indent: 2em;
+}
+#articleContent .fleft { padding:0 0 0 44px;}
+#articleContent .fright { padding:10px 14px 0 0;}
